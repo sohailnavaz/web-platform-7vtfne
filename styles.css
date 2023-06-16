@@ -1,0 +1,30 @@
+body{
+  display: block;
+  padding: 10rem;
+  padding-top:0rem;
+  text-align: justify;
+}
+ nav{
+  display: flex;
+  justify-content: space-between;
+  font-size: smaller;
+ }
+.maine{
+  
+  color: #0a2458;
+  flex: 0 0 auto;
+  max-width: 100%;
+  text-align: center;
+  width: 100%;
+  padding-bottom: 1rem;
+}
+
+.maine p{
+  color: rgb(0, 0, 133);
+}
+
+.wid{
+  align-items: center;
+}
+.introduction{
+}
